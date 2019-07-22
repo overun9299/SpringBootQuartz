@@ -10,6 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @version: V1.0
  * @date: 2019/7/19 11:14
  * @Copyright: 2019 www.yimidida.com Inc. All rights reserved.
+ * 参考资料  https://github.com/overun9299/SpringBootQuartz.git
  */
 
 @SpringBootApplication
